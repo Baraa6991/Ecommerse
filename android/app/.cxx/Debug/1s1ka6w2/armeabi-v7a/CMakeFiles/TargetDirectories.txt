@@ -1,0 +1,2 @@
+C:/Users/MyPre/OneDrive/Desktop/ecommerce/Ecommerse/android/app/.cxx/Debug/1s1ka6w2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/MyPre/OneDrive/Desktop/ecommerce/Ecommerse/android/app/.cxx/Debug/1s1ka6w2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

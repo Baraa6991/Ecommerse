@@ -1,0 +1,2 @@
+C:/Users/MyPre/OneDrive/Desktop/ecommerce/android/app/.cxx/Debug/5o421g60/x86/CMakeFiles/edit_cache.dir
+C:/Users/MyPre/OneDrive/Desktop/ecommerce/android/app/.cxx/Debug/5o421g60/x86/CMakeFiles/rebuild_cache.dir
